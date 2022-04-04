@@ -1,0 +1,57 @@
+*{
+    background-color: #182628 ;
+    font-family: sans-serif;
+    color: #f2f2f2;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+p{
+    font-size: 20px;
+}
+
+
+.margin,.header2{
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.header {
+    text-align: center;
+    background-color: #3b945e;
+    background-position: 100%;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    height: auto;
+}
+
+
+.img{
+    height: auto;
+    width: 450px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.logo.header{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 100px;
+}
+
+/* Other then Home page */
+.list {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.border{
+    border: 1px solid #f2f2f2;
+    margin: 2% 15% 0% 15%;
+}
